@@ -19,6 +19,6 @@ returns the ip of the server to which the failover ip is currently routed
 ### setActiveServer(ip)
 requires ip of the new routing target
 
-sets the ip of the server to which the failover ip should be routed
+asks the api to change routing
 
 returns True on success, otherwise False
