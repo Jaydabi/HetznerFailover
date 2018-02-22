@@ -9,4 +9,5 @@ failover.setActiveServer('10.88.77.66')
 ```
 
 getActiveServer() returns the ip of the server to which the failover ip is currently routed
+
 setActiveServer() sets the ip of the server to which the failover ip should be routed
